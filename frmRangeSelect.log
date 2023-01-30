@@ -1,0 +1,12 @@
+Line 108: Class MSForms.CommandButton of control CommandButton2 was not a loaded control class.
+Line 120: Class MSForms.CommandButton of control CommandButton1 was not a loaded control class.
+Line 114: The property name Size in CommandButton2 is invalid.
+Line 115: The property name FontHeight in CommandButton2 is invalid.
+Line 116: The property name FontCharSet in CommandButton2 is invalid.
+Line 117: The property name FontPitchAndFamily in CommandButton2 is invalid.
+Line 118: The property name ParagraphAlign in CommandButton2 is invalid.
+Line 126: The property name Size in CommandButton1 is invalid.
+Line 127: The property name FontHeight in CommandButton1 is invalid.
+Line 128: The property name FontCharSet in CommandButton1 is invalid.
+Line 129: The property name FontPitchAndFamily in CommandButton1 is invalid.
+Line 130: The property name ParagraphAlign in CommandButton1 is invalid.

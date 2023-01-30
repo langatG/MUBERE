@@ -1,0 +1,5 @@
+Line 281: Class MSComCtl2.DTPicker of control txtchequedate was not a loaded control class.
+Line 293: Class MSComCtl2.DTPicker of control txtpaymentdate was not a loaded control class.
+Line 305: Class MSComCtl2.DTPicker of control txtdatecollected was not a loaded control class.
+Line 317: Class MSComctlLib.ImageList of control imgEmpTool was not a loaded control class.
+Line 355: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.

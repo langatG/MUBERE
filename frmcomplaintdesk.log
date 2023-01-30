@@ -1,0 +1,6 @@
+Line 110: Class MSComCtl2.DTPicker of control DTPcomplaintperiod was not a loaded control class.
+Line 146: Class MSComctlLib.ListView of control Lvwdeductions was not a loaded control class.
+Line 335: Class MSComctlLib.ListView of control lvwMilkCollected was not a loaded control class.
+Line 422: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 479: Class MSComDlg.CommonDialog of control cdgPrint was not a loaded control class.
+Line 487: Class MSComCtl2.DTPicker of control DTPMilkDate was not a loaded control class.

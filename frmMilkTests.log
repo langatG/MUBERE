@@ -1,0 +1,4 @@
+Line 42: Class MSComctlLib.ListView of control lvwReasons was not a loaded control class.
+Line 541: Class MSComCtl2.DTPicker of control DTPTimeIn was not a loaded control class.
+Line 571: Class MSComCtl2.DTPicker of control DTPRejDate was not a loaded control class.
+Line 592: Class MSComCtl2.DTPicker of control DTPTimeOut was not a loaded control class.

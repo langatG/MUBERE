@@ -1,0 +1,5 @@
+Line 304: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 613: Class MSComCtl2.DTPicker of control dtpSharesTransDate was not a loaded control class.
+Line 625: Class MSComctlLib.ListView of control lvwShareContrib was not a loaded control class.
+Line 795: Class MSComCtl2.DTPicker of control dtpLoanTransDate was not a loaded control class.
+Line 807: Class MSComctlLib.ListView of control lsvLoanTrans was not a loaded control class.

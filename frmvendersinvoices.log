@@ -1,0 +1,5 @@
+Line 39: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 162: Class MSComCtl2.DTPicker of control DTPInvDue was not a loaded control class.
+Line 174: Class MSComCtl2.DTPicker of control DTPInvDate was not a loaded control class.
+Line 211: Class MSComctlLib.ListView of control LvwSelected was not a loaded control class.
+Line 257: Class MSComctlLib.ListView of control LvwItems was not a loaded control class.

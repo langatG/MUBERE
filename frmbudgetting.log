@@ -1,0 +1,7 @@
+Line 28: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 62: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 171: Class MSComCtl2.DTPicker of control dtpBudgetPeriod was not a loaded control class.
+Line 184: Class MSComctlLib.ListView of control lvwAccounts was not a loaded control class.
+Line 312: Class MSComctlLib.ListView of control lvwBudget was not a loaded control class.
+Line 360: Class MSComCtl2.DTPicker of control dtpBudgetYear was not a loaded control class.
+Line 427: Class MSComctlLib.ListView of control Lvwcategory was not a loaded control class.

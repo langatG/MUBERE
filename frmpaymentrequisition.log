@@ -1,0 +1,3 @@
+Line 45: Class MSComctlLib.ListView of control lvwItems was not a loaded control class.
+Line 97: Class MSComctlLib.ListView of control lvwSelectedItems was not a loaded control class.
+Line 149: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.

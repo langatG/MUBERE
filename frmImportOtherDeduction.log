@@ -1,0 +1,9 @@
+Line 131: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 143: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 137: The property name _ExtentX in ProgressBar1 is invalid.
+Line 138: The property name _ExtentY in ProgressBar1 is invalid.
+Line 139: The property name _Version in ProgressBar1 is invalid.
+Line 141: The property name Scrolling in ProgressBar1 is invalid.
+Line 146: The property name _ExtentX in CommonDialog1 is invalid.
+Line 147: The property name _ExtentY in CommonDialog1 is invalid.
+Line 148: The property name _Version in CommonDialog1 is invalid.
